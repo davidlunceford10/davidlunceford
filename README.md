@@ -1,7 +1,7 @@
 # davidlunceford
 
 About me:
-I'm a senior at BYU-I studying cloud computing. I currently work full time as a caregiver for Empowering Human Services in Idaho Falls. I enjoy coding, building/ fixing computers, psychology, and sociology. I started off college as a commnunications student but lost interest because of the limitated emphases available for that major. A key aspect of who I am centers on trying to factor life's abstract problems into their formulaic patterns and relationships so I can solve them and share their solutions as credibly and compellingly as possible. 
+I'm a senior at BYU-I studying cloud computing. I currently work full time as a caregiver for Empowering Human Services in Idaho Falls. I enjoy coding, building/ fixing computers, psychology, and sociology. I started off college as a communications student but lost interest because of the limited emphases available for that major. A key aspect of who I am centers on trying to factor life's abstract problems into their formulaic patterns and relationships so I can solve them and share their solutions as credibly and compellingly as possible. 
 
 Skills and Technologies:
 So far I've worked with Python, HTML/CSS, C#, and Cisco IOS for network configuration and troubleshooting.

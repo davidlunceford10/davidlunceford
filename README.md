@@ -14,7 +14,7 @@ https://github.com/swamp-donkey1/Swamp-Donkey
 
 Here is my LinkedIn profile:
 
-linkedin.com/in/davidalunceford
+https://linkedin.com/in/davidalunceford
 
 
 Feel free to explore my repositories and don't hesitate to reach out! 
